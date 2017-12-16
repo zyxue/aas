@@ -1,3 +1,8 @@
+Forked from https://github.com/zyxue/aas/tree/master
+
+My own exercise results is in `dev` folder.
+
+
 Advanced Analytics with Spark Source Code
 =========================================
 
