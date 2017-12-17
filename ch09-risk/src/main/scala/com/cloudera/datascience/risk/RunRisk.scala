@@ -53,7 +53,7 @@ object RunRisk {
   }
 }
 
-class RunRisk(private val spark: SparkSession) {
+class RunRisk(private val spark: SparkSession) extends java.io.Serializable {
   import spark.implicits._
 
   /**
